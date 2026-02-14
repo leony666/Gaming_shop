@@ -16,11 +16,10 @@ No Javascript was used.
 - Gifthub Pages
 
 ## Live website
-https://leony666.github.io/Gaming_shop/index.html
+
 
 ## Screenshots
-![Homepage](Images/homepage.png)
+
 
 ## Author
 Naing Aung Win - University project for module - CST0400 - Created on: 11th of Feb 2026
-
